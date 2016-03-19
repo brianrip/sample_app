@@ -20,6 +20,7 @@ group :development, :test do
   gem 'web-console', '2.0.0.beta3'
   gem 'spring',      '1.1.3'
   gem 'launchy'
+  gem 'pry-rails'
   gem 'capybara'
 end
 
